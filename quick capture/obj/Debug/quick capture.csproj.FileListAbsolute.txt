@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\bin\Debug\quick capture.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick capture.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick_capture.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick capture.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\bin\Debug\quick capture.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\bin\Debug\quick capture.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick capture.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick capture.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\bin\Debug\Accord.dll.config
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick_capture.CaptureForm.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\quick capture\quick capture\obj\Debug\quick capture.csproj.CoreCompileInputs.cache
